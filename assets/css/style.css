@@ -345,6 +345,7 @@ footer {
     }
 
 }
+/* for small screen sizes 800px and down*/
 
 @media screen and (max-width: 800px) {
 
